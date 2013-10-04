@@ -1,0 +1,11 @@
+{
+    "attribution": "Data \u00a9 OpenStreetMap (and) contributors, CC-BY-SA", 
+    "description": "", 
+    "bounds": "0.5229,47.1133,2.3549,48.1736", 
+    "name": "Loir-et-cher 2020", 
+    "minzoom": "7", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "15", 
+    "center": "1.3716,47.5804,9"
+}

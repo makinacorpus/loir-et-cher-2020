@@ -1,0 +1,9 @@
+[submodule "assets/Leaflet.markercluster"]
+	path = assets/Leaflet.markercluster
+	url = https://github.com/Leaflet/Leaflet.markercluster.git
+[submodule "assets/Leaflet"]
+	path = assets/Leaflet
+	url = https://github.com/Leaflet/Leaflet.git
+[submodule "assets/Leaflet.label"]
+	path = assets/Leaflet.label
+	url = https://github.com/Leaflet/Leaflet.label.git
